@@ -2,7 +2,7 @@
 
 The purpose of this repository is to walk you through the details of the macOS Big Sur preview on CircleCI.
 
-**Note:** macOS Big Sur is available to existing CircleCI customers only. You must have signed up for a CircleCI Performance, Scale, or Custom plan before 26 Apr 2021. To get access to the macOS Big Sur preview as an existing customer, **fill out the [macOS Big Sur interest form](https://form.asana.com?k=vQFaJZp5XfPypEJ2S6O9KA&d=5374345383152)**.
+**Note:** macOS Big Sur is available to existing CircleCI customers only. You must have signed up for a CircleCI Performance, Scale, or Custom plan before 26 Apr 2021. Customers on usage-based plans are not eligible for this preview. To get access to the macOS Big Sur preview as an existing customer, **fill out the [macOS Big Sur interest form](https://form.asana.com?k=vQFaJZp5XfPypEJ2S6O9KA&d=5374345383152)**.
 
 ## What are macOS Big Sur resources on CircleCI?
 
