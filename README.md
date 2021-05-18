@@ -10,7 +10,7 @@ CircleCI offers a [macOS executor](https://circleci.com/docs/2.0/testing-ios/) t
 
 macOS Big Sur is the latest image for the macOS executor that’s now available in preview on the next generation macOS infrastructure.
 
-The identifier of the Big Sur image is `110.12.4` (the `110` part stands for macOS 11.0), and the identifier for the Big Sur resource is `m2.medium`. The Big Sur resource can only be used with a Big Sur macOS image, and vice versa.
+The identifier of the Big Sur image is `12.5.0` and the identifier for the Big Sur resource is `m2.medium`. The Big Sur resource can only be used with a Big Sur macOS image, and vice versa.
 
 ## Pricing and availability
 
@@ -37,8 +37,8 @@ version: 2.1
 jobs:
   build-and-test:
     macos:
-      # reference the Big Sur preview image
-      xcode: 110.12.4
+      # reference the Big Sur + Xcode 12.5 preview image
+      xcode: 12.5.0
     # use the Big Sur preview resource class
     resource_class: m2.medium
     environment:
