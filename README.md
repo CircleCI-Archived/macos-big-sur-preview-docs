@@ -26,7 +26,7 @@ To get access, **fill out the [macOS Big Sur interest form](https://form.asana.c
 
 Requirements to get access to the macOS Big Sur preview:
 
-* Your organization must be an existing CircleCI customer, and you must have signed up for a Performance, Scale, or Custom plan earlier than 22 Mar 2021.
+* Your organization must be an existing CircleCI customer, and you must have signed up for a Performance, Scale, or Custom plan earlier than 26 Apr 2021.
     * For new customers, we are planning on offering macOS Big Sur resources later in 2021.
 
 ## Example of a CircleCI config using macOS Big Sur resources
